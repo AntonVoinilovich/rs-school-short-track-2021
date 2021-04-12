@@ -28,5 +28,4 @@ function sortByHeight(arr) {
   return result;
 }
 
-
 module.exports = sortByHeight;

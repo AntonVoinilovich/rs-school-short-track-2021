@@ -22,5 +22,4 @@ function encodeLine(str) {
   return res.replace(/[1]/g, '');
 }
 
-
 module.exports = encodeLine;

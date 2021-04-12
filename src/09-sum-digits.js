@@ -15,5 +15,4 @@ function getSumOfDigits(n) {
   return (n % 9 === 0) ? 9 : (n % 9);
 }
 
-
 module.exports = getSumOfDigits;

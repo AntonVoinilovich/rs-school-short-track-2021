@@ -30,5 +30,4 @@ function findIndex(array, value) {
   return res;
 }
 
-
 module.exports = findIndex;

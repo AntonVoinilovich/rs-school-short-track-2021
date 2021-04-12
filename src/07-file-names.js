@@ -26,5 +26,4 @@ function renameFiles(names) {
   return arr;
 }
 
-
 module.exports = renameFiles;

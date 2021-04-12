@@ -2,10 +2,10 @@
  * Given matrix, a rectangular matrix of integers,
  * just add up all the values that don't appear below a "0".
  *
- * @param {Array<Array>} matrix
- * @return {Number}
- *
- * @example
+//  * @param {Array<Array>} matrix
+//  * @return {Number}
+//  *
+//  * @example
  * matrix = [
  *  [0, 1, 1, 2],
  *  [0, 5, 0, 0],
@@ -31,6 +31,5 @@ function getMatrixElementsSum(matrix) {
   }
   return sum;
 }
-
 
 module.exports = getMatrixElementsSum;

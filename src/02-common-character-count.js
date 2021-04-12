@@ -29,5 +29,4 @@ function getCommonCharacterCount(s1, s2) {
   return sum.length - max.length;
 }
 
-
 module.exports = getCommonCharacterCount;
